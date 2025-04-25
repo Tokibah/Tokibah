@@ -3,7 +3,7 @@
 **`Digital BlackSmith (Developer/Marketing Editor/Gamer)`**
 
 <h3>
-I am currently pursuing a Diploma in Computer Science, and every project showcased here has been built from the ground up — from backend logic to UI design. I’m passionate about learning almost anything, but my deepest interest lies in intelligent robotics. It’s my dream to one day build a robot of my own.
+I am currently pursuing a Diploma in Computer Science, and every project showcased here has been built from the ground up — from backend logic to UI design. I’m passionate about learning almost anything, but my deepest interest lies in intelligent robotics. It’s my dream to one day build a robot of my own. <br />
 
 If you’d like to know more about me, feel free to check out the website section of my profile you’ll find links to my LinkedIn, LeetCode, and more.
 <h3 />
